@@ -25,5 +25,11 @@ Choosing the appropriate values for these parameters requires knowledge and unde
 This dataset is taken from UCI library and has 16 attributes and 10130 instances.
 
 #results
+
 ![image](https://user-images.githubusercontent.com/108456994/233180863-c55d4db6-c3cf-4986-a492-f0015399bb2b.png)
+
+
 #convergence graph
+
+![image](https://user-images.githubusercontent.com/108456994/233181179-a311a425-6b2a-41cb-9bcb-7a9757356df3.png)
+
