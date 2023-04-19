@@ -33,3 +33,13 @@ This dataset is taken from UCI library and has 16 attributes and 10130 instances
 
 ![image](https://user-images.githubusercontent.com/108456994/233181179-a311a425-6b2a-41cb-9bcb-7a9757356df3.png)
 
+From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
+
+.
+
+# Written By
+Name : Riya
+
+Roll No. : 102003451
+
+Sub-Group: 3CO18
